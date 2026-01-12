@@ -13,8 +13,17 @@ Power BI desktop
 MICROSOFT POWERPOINT
 MS EXCEL
 DAX
-DASHBOARD SCREENSHOTS:
-1:![Dashboard 1](WhatsApp Image 2026-01-12 at 11.35.37 PM.jpeg)
-![Dashboard 2]()
-![Dashboard 3]()
+🖼️ Dashboard Screenshots
+
+1. Overview Dashboard**
+![Dashboard 1](WhatsApp%20Image%202026-01-12%20at%2011.35.37%20PM.jpeg)
+
+2. Performance Metrics**
+![Dashboard 2](WhatsApp%20Image%202026-01-12%20at%2011.39.08%20PM.jpeg)
+
+3. Campaign Analysis**
+![Dashboard 3](WhatsApp%20Image%202026-01-12%20at%2011.59.27%20PM.jpeg)
+
+4. Additional Insights**
+![Dashboard 4](WhatsApp%20Image%202026-01-13%20at%2012.01.06%20AM.jpeg)
 
