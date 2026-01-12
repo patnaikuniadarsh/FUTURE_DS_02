@@ -14,5 +14,7 @@ MICROSOFT POWERPOINT
 MS EXCEL
 DAX
 DASHBOARD SCREENSHOTS:
-1:
+1:![Dashboard 1]()
+![Dashboard 2]()
+![Dashboard 3]()
 
