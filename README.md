@@ -14,7 +14,7 @@ MICROSOFT POWERPOINT
 MS EXCEL
 DAX
 DASHBOARD SCREENSHOTS:
-1:![Dashboard 1]()
+1:![Dashboard 1](WhatsApp Image 2026-01-12 at 11.35.37 PM.jpeg)
 ![Dashboard 2]()
 ![Dashboard 3]()
 
